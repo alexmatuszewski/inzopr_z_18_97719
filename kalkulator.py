@@ -5,6 +5,8 @@ def dodaj ():
   
   
   def get_help():
-       pass
-  dodaj()
+       print('simple_calculator')
+	   print('prosze podac dwie liczby')
+get_help()
+dodaj()
   
